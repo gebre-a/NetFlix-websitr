@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NetFlix-websitr/static/css/main.586a26e9.css",
+    "main.js": "/NetFlix-websitr/static/js/main.9bc2c206.js",
+    "static/media/NetflixLogo.png": "/NetFlix-websitr/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/NetFlix-websitr/index.html",
+    "main.586a26e9.css.map": "/NetFlix-websitr/static/css/main.586a26e9.css.map",
+    "main.9bc2c206.js.map": "/NetFlix-websitr/static/js/main.9bc2c206.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.586a26e9.css",
+    "static/js/main.9bc2c206.js"
+  ]
+}
